@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-import 'package:web';
+import 'package:web/web.dart';
 
 import 'package:universal_html/html.dart';
 
