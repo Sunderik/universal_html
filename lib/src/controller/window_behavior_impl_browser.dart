@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-import 'dart:html';
+import 'package:html';
 import 'dart:indexed_db';
 
 import 'window_controller.dart';

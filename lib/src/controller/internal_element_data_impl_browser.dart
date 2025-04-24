@@ -16,7 +16,7 @@ import 'dart:html';
 
 import 'internal_element_data.dart';
 
-export 'dart:html' show Element;
+export 'package:html' show Element;
 
 InternalElementData ofElement(Element element) {
   throw StateError('InternalElementData is unavailable in browsers');

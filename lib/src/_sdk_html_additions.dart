@@ -13,7 +13,7 @@
 // limitations under the License.
 
 import 'dart:async';
-import 'dart:html';
+import 'package:html';
 import 'dart:io';
 
 /// Implemented by [EventSource] outside browser.

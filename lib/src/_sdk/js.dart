@@ -29,4 +29,4 @@
 //
 // This file solves the problem.
 //
-export 'dart:js';
+export 'dart:js_interop';
