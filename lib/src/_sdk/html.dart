@@ -29,6 +29,6 @@
 //
 // This file solves the problem.
 //
-export 'dart:html';
+import 'package:web/web.dart';
 
 export '../_sdk_html_additions.dart';
